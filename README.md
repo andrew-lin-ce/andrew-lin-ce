@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @andrew-lin-ce
-- 👀
+- 👀 Nothing much to see here...
+- hmm....well
 
 <!---
 andrew-lin-ce/andrew-lin-ce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
